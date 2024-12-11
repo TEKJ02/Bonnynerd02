@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Bonnynerd02
-- 👀 I’m working towards becoming a Data Analyst
+- 👋 Hi, I’m @TEKJ
+- 👀 I’m a Data Analyst, working towards becoming a Data Scientist
 - 🌱 I’m currently learning Python
 - 📫 How to reach me.....Instagram: @_nen.gii_ , Facebook: @Emmanuel Nengi Jamaica
 
