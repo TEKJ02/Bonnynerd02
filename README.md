@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TEKJ
+- 👋 Hi, I’m @TEKJ02
 - 👀 I’m a Data Analyst, working towards becoming a Data Scientist
 - 🌱 I’m currently learning Python
 - 📫 How to reach me.....Instagram: @_nen.gii_ , Facebook: @Emmanuel Nengi Jamaica
