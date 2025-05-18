@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TEKJ02
+- 👋 Hi, I’m Emmanuel Kalada-Jamaica
 - 👀 I’m a Data Analyst, working towards becoming a Data Scientist
 - 🌱 I’m currently learning Python
 - 📫 How to reach me.....LinkedIn: https://www.linkedin.com/in/emmanuel-jamaica-18692a23a , Instagram: @_nen.gii_ , Facebook: @Emmanuel Nengi Jamaica
